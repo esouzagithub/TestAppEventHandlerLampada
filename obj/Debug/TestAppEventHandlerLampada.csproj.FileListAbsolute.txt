@@ -1,0 +1,12 @@
+c:\users\eduardo\documents\visual studio 2015\Projects\appDelegateAndEvent\TestAppEventHandlerLampada\bin\Debug\TestAppEventHandlerLampada.exe.config
+c:\users\eduardo\documents\visual studio 2015\Projects\appDelegateAndEvent\TestAppEventHandlerLampada\obj\Debug\TestAppEventHandlerLampada.csprojResolveAssemblyReference.cache
+c:\users\eduardo\documents\visual studio 2015\Projects\appDelegateAndEvent\TestAppEventHandlerLampada\bin\Debug\TestAppEventHandlerLampada.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\appDelegateAndEvent\TestAppEventHandlerLampada\bin\Debug\TestAppEventHandlerLampada.pdb
+c:\users\eduardo\documents\visual studio 2015\Projects\appDelegateAndEvent\TestAppEventHandlerLampada\obj\Debug\TestAppEventHandlerLampada.exe
+c:\users\eduardo\documents\visual studio 2015\Projects\appDelegateAndEvent\TestAppEventHandlerLampada\obj\Debug\TestAppEventHandlerLampada.pdb
+C:\GitHub\TestAppEventHandlerLampada\bin\Debug\TestAppEventHandlerLampada.exe.config
+C:\GitHub\TestAppEventHandlerLampada\obj\Debug\TestAppEventHandlerLampada.exe
+C:\GitHub\TestAppEventHandlerLampada\obj\Debug\TestAppEventHandlerLampada.pdb
+C:\GitHub\TestAppEventHandlerLampada\bin\Debug\TestAppEventHandlerLampada.exe
+C:\GitHub\TestAppEventHandlerLampada\bin\Debug\TestAppEventHandlerLampada.pdb
+C:\GitHub\TestAppEventHandlerLampada\obj\Debug\TestAppEventHandlerLampada.csprojResolveAssemblyReference.cache
